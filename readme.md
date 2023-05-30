@@ -5,7 +5,7 @@ confidence that the mean for each bar lies in between these levels. As you hover
 plot, a horizontal line appears. Using these lines, you can define two levels. The color 
 of the bars change depending on the confidence that the mean for each bar lies in between 
 these levels.  
-![image](demo.webm)
+![image](https://imgur.com/a/G22g2Mg)
 To run the code, please follow the following steps:
 
 1. Clone the repository by executing the following command in the terminal  
