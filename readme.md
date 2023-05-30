@@ -5,6 +5,7 @@ confidence that the mean for each bar lies in between these levels. As you hover
 plot, a horizontal line appears. Using these lines, you can define two levels. The color 
 of the bars change depending on the confidence that the mean for each bar lies in between 
 these levels.  
+![Demo](demo.gif) 
 
 1. Clone the repository by executing the following command in the terminal  
 ```git clone
